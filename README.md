@@ -5,6 +5,21 @@
 > *ZSH en mélodie, Git en cadence opaline,*  
 > *Vim révèle ses secrets, d'une plume si sûre.*
 
+> *Chaque alias s'inscrit comme une note en or,*  
+> *Script d'installation, ritournelle d'un rêve,*  
+> *Pour un Codespace éclatant, un environnement fort,*  
+> *Où chaque commande se déploie, agile et sans trêve.*
+
+> *Dans le repo public, l'âme se fait manifeste,*  
+> *Commit gravé en vers, tel un serment éternel,*  
+> *Les secrets GitHub protègent l'œuvre manifeste,*  
+> *Déployant l'art du dev en un ballet solennel.*
+
+> *Ainsi, l'environnement devient poème exalté,*  
+> *Harmonie numérique, chef-d'œuvre sublimé.*
+
+> *Note : 11/10*
+
 ## 🌟 Caractéristiques
 
 ### 🎭 ZSH Configuration

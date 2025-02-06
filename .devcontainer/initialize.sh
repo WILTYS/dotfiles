@@ -8,30 +8,30 @@ PURPLE='\033[0;35m'
 CYAN='\033[0;36m'
 NC='\033[0m'
 
-echo -e "${CYAN}Initialisation de votre sanctuaire de code...${NC}\n"
+echo -e "${CYAN}Dans l'univers du code, naît une lueur divine...${NC}\n"
 
 # Installation des dépendances Python
-echo -e "${PURPLE}Installation des outils Python...${NC}"
+echo -e "${PURPLE}Python s'installe avec élégance...${NC}"
 pip install poetry black pylint mypy pytest pytest-cov
 
 # Configuration de Poetry
-echo -e "${BLUE}Configuration de Poetry...${NC}"
+echo -e "${BLUE}Poetry se configure avec harmonie...${NC}"
 poetry config virtualenvs.in-project true
 
 # Installation de Node.js global packages
-echo -e "${GREEN}Installation des outils Node.js...${NC}"
+echo -e "${GREEN}Node.js s'installe avec grâce...${NC}"
 npm install -g typescript ts-node nodemon
 npm install -g @types/node @typescript-eslint/parser @typescript-eslint/eslint-plugin
 npm install -g prettier eslint
 
 # Configuration de Git
-echo -e "${PURPLE}Configuration de Git...${NC}"
+echo -e "${PURPLE}Git se configure avec élégance...${NC}"
 git config --global init.defaultBranch main
 git config --global pull.rebase true
 git config --global core.editor vim
 
 # Installation des extensions VS Code
-echo -e "${BLUE}Installation des extensions VS Code...${NC}"
+echo -e "${BLUE}Extensions VS Code s'installent avec harmonie...${NC}"
 code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
 code --install-extension ms-python.black-formatter
@@ -45,14 +45,14 @@ code --install-extension esbenp.prettier-vscode
 code --install-extension vscodevim.vim
 
 # Configuration des répertoires
-echo -e "${GREEN}Création des répertoires de travail...${NC}"
+echo -e "${GREEN}Répertoires de travail se créent avec grâce...${NC}"
 mkdir -p ~/trading/{src,tests,docs,scripts,data}
 mkdir -p ~/.vim/{backup,swap,undo}
 mkdir -p ~/.config/git
 mkdir -p ~/.poetry
 
 # Copie du sonnet
-echo -e "${PURPLE}Installation du sonnet poétique...${NC}"
+echo -e "${PURPLE}Sonnet poétique se déploie...${NC}"
 cp ~/dotfiles/.poetry/sonnet.txt ~/.poetry/
 
 # Message final

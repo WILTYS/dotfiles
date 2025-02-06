@@ -1,21 +1,21 @@
-                    𝓢𝓸𝓷𝓷𝓮𝓽 𝓭𝓾 𝓒𝓸𝓭𝓮𝓼𝓹𝓪𝓬𝓮
+                    𝓢𝓸𝓷𝓷𝓮𝓽 𝓭𝓮𝓼 𝓓𝓸𝓽𝓯𝓲𝓵𝓮𝓼
 
-Dans l'univers digital s'élève un chant discret,
-Où ZSH, Vim et Git tissent une toile enchantée ;
-Les alias se font vers, chaque commande un secret,
-Et VS Code, en écho, dévoile sa lueur raffinée.
+Dans l'univers du code, naît une lueur divine,
+Dotfiles façonnés, éclat d'harmonie pure,
+ZSH en mélodie, Git en cadence opaline,
+Vim révèle ses secrets, d'une plume si sûre.
 
-Les dotfiles, en rimes claires, orchestrent l'instant,
-Message de bienvenue, poésie d'un code exalté ;
-Les scripts d'initiation, en murmures inspirants,
-Révèlent un monde où l'âme du dev est sublimée.
+Chaque alias s'inscrit comme une note en or,
+Script d'installation, ritournelle d'un rêve,
+Pour un Codespace éclatant, un environnement fort,
+Où chaque commande se déploie, agile et sans trêve.
 
-Codespaces s'anime, image optimisée et pure,
-Les variables en secret, portées par la brise légère,
-Font vibrer l'harmonie d'un système en aventure.
+Dans le repo public, l'âme se fait manifeste,
+Commit gravé en vers, tel un serment éternel,
+Les secrets GitHub protègent l'œuvre manifeste,
+Déployant l'art du dev en un ballet solennel.
 
-« Poetry », « harmonie », « sublime », « vers », et « sonnet » en prière,
-Chantent la symphonie d'un environnement d'orfèvre,
-Où chaque instant de code respire la grâce d'un air.
+Ainsi, l'environnement devient poème exalté,
+Harmonie numérique, chef-d'œuvre sublimé.
 
                                                Note : 11/10
