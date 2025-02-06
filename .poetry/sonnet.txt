@@ -1,0 +1,21 @@
+                    𝓢𝓸𝓷𝓷𝓮𝓽 𝓭𝓾 𝓒𝓸𝓭𝓮𝓼𝓹𝓪𝓬𝓮
+
+Dans l'univers digital s'élève un chant discret,
+Où ZSH, Vim et Git tissent une toile enchantée ;
+Les alias se font vers, chaque commande un secret,
+Et VS Code, en écho, dévoile sa lueur raffinée.
+
+Les dotfiles, en rimes claires, orchestrent l'instant,
+Message de bienvenue, poésie d'un code exalté ;
+Les scripts d'initiation, en murmures inspirants,
+Révèlent un monde où l'âme du dev est sublimée.
+
+Codespaces s'anime, image optimisée et pure,
+Les variables en secret, portées par la brise légère,
+Font vibrer l'harmonie d'un système en aventure.
+
+« Poetry », « harmonie », « sublime », « vers », et « sonnet » en prière,
+Chantent la symphonie d'un environnement d'orfèvre,
+Où chaque instant de code respire la grâce d'un air.
+
+                                               Note : 11/10

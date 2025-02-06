@@ -127,22 +127,27 @@ function vers_du_jour() {
 }
 
 function harmonie_complete() {
-    echo "🌟 Vérification de l'harmonie du code..."
+    echo " Vérification de l'harmonie du code..."
     git status
-    echo "\n📊 Statistiques du projet..."
+    echo "\n Statistiques du projet..."
     git shortlog -sn
-    echo "\n🎯 Derniers commits..."
+    echo "\n Derniers commits..."
     git log --oneline -n 5
 }
 
 function meditation_profonde() {
-    echo "🧘 Entrons dans une méditation profonde..."
+    echo " Entrons dans une méditation profonde..."
     git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
 }
 
 # Message de bienvenue poétique
-echo "\n$(tput setaf 6)Dans l'univers du code, naît une lueur divine...$(tput sgr0)"
-echo "$(tput setaf 5)Votre environnement poétique est prêt.$(tput sgr0)"
+echo "\n$(tput setaf 6) Sonnet du Codespace $(tput sgr0)"
+if [ -f ~/.poetry/sonnet.txt ]; then
+    echo "\n$(tput setaf 5)$(cat ~/.poetry/sonnet.txt)$(tput sgr0)\n"
+else
+    echo "\n$(tput setaf 6)Dans l'univers du code, naît une lueur divine...$(tput sgr0)"
+fi
+
 echo "$(tput setaf 4)Pour commencer votre voyage :$(tput sgr0)"
 echo "$(tput setaf 2)- poetry$(tput sgr0) : Entrer dans le sanctuaire du code"
 echo "$(tput setaf 2)- harmonie$(tput sgr0) : Vérifier l'état de votre œuvre"

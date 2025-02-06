@@ -49,6 +49,11 @@ echo -e "${GREEN}Création des répertoires de travail...${NC}"
 mkdir -p ~/trading/{src,tests,docs,scripts,data}
 mkdir -p ~/.vim/{backup,swap,undo}
 mkdir -p ~/.config/git
+mkdir -p ~/.poetry
+
+# Copie du sonnet
+echo -e "${PURPLE}Installation du sonnet poétique...${NC}"
+cp ~/dotfiles/.poetry/sonnet.txt ~/.poetry/
 
 # Message final
 echo -e "\n${CYAN}✨ Votre environnement est prêt pour la création !${NC}"
