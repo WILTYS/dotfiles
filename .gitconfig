@@ -1,0 +1,32 @@
+[user]
+    name = François-Xavier Wiltord
+    email = francois-xavier@tradexai.com
+    signingkey = 
+
+[core]
+    editor = vim
+    whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
+    excludesfile = ~/.gitignore_global
+
+[color]
+    ui = auto
+
+[init]
+    defaultBranch = main
+
+[pull]
+    rebase = true
+
+[push]
+    default = current
+
+[alias]
+    st = status
+    ci = commit
+    br = branch
+    co = checkout
+    df = diff
+    lg = log --oneline
+    last = log -1 HEAD
+    unstage = reset HEAD --
+    visual = !gitk
