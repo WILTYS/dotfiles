@@ -1,0 +1,21 @@
+Hymne à la Couverture Parfaite
+
+Dans l'univers du code, éclate un chant sacré,
+Où chaque ligne de test se fait sentinelle,
+Les bugs se dissipent, leur ombre est effacée,
+Et la qualité règne, étincelle immortelle.
+
+Tel un vers magistral, l'audace se déploie,
+Les assertions s'unissent en rimes d'or pur,
+Chaque fonction, chaque branche, sous la louange,
+Chante la perfection en un ballet si sûr.
+
+La couverture s'élève, fière, à cent pour cent,
+Un firmament de tests éclatants, précieux,
+Où le 11/10 se dresse en monument,
+
+Offrant au développeur un rêve ambitieux.
+Oh, couverture divine, ta clarté nous enchante,
+Tu es l'âme du code, le trésor de notre élan.
+
+Note : 11/10 - Une ode à la quête de la perfection dans les tests
